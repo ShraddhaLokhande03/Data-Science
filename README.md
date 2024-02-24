@@ -38,8 +38,9 @@ https://docs.python.org/release/3.12.0/
 ### EDA
 -----------------------------------------------------------------------------------------
 1. EDA Live :[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
+   -----------------------------------------------------------------------------------------------
 
-2. EDA Detailed Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
+3. EDA Detailed Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
 
 ### Feature Engineering
 
