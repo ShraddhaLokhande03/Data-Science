@@ -52,7 +52,7 @@ https://docs.python.org/release/3.12.0/
 ### Final Goal Outcome: 
 1. Techniques to Perform Statistical Analysis
 2. Familiar with all concepts which will be important for Machine Learning
-
+----------------------------------------------
 ## 3. Databases
 1. Mongodb: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 
